@@ -47,4 +47,4 @@ The project provides insights into how academic performance and technical skills
 
 ## Author
 
-Your Name
+Bipin Chandra
